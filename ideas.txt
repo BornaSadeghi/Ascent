@@ -1,0 +1,60 @@
+Shooter
+Car
+Racing
+Physics
+Music
+Sports
+Light
+Space
+Dodging
+Gravity
+World
+RPG
+Crafting
+Grid
+Hacker
+
+-An addictive game that never ends? (Arcade)
+
+-You are a cyber criminal
+-You must hack as many bank accounts as possible
+-You roam a city and hack civilians' bank accounts (Watch_Dogs)
+
+-Physics based game, dodging/fighting enemies?
+
+-Puzzle game in which you rearrange wires from e-waste into a path that leads to the next level/goal
+
+-An action game where enemies spawn and stuff
+
+-I want gravity, perhaps a platformer
+-Platformer puzzle game
+
+-A 2D "Minecraft" style game with cleaning e-waste, and protect yourself from hackers
+-Crafting
+-Probably won't do this
+
+-E-waste processing factory
+-Crane usage
+-E-waste smelting
+
+-You are a virus trying to get into a computer, avoiding obstacles and antivirus protection methods
+-You try to sneak into the computer, stealth?
+-A platformer
+
+-You are a robot who has risen from an e-waste landfill and you are trying to escape/find your friends
+
+-Something in which a health bar/hearts indicator is present
+
+-Infinite "Frogger" style game, dodging e-waste or something
+
+-"Snake" style game that involves collecting e-waste, dodging obstacles
+
+-A slingshot game where you fling e-waste to China
+
+-A top-down shooter/melee arcade game, killing e-waste, viruses and cybercriminals
+-Different guns and ammo, different enemies
+-Similar to surviv.io, but with actual sprites
+-Chests that contain items
+-Shelter and stuff
+
+-How about that idea, but as a side-scroller platformer where you can shoot enemies (similar to Metal Slug), while trying to reach a goal
